@@ -24,8 +24,9 @@
 
 <div style="display: inline_block"><br/>
 <img align="center" alt= "duolingo"src="https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white"/>
- <img align="center" alt= "udemy"src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white"/>
-
+<img align="center" alt= "udemy"src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white"/>
+ </div>
+ 
  ## Lifelong learning 
 ![Screenshot](https://st.depositphotos.com/2379655/57211/v/600/depositphotos_572115598-stock-illustration-senior-woman-using-a-laptop.jpg)
 
