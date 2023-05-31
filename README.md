@@ -12,6 +12,13 @@
 
 ## Tecnologias ⚒️ 🧰 🧮
 
+<div>
+
+  <img align= "center" Alt="Simone" heigth="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
+          
+ 
+</div>
+
 
 
 
