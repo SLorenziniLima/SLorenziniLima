@@ -27,7 +27,7 @@
  <img align="center" alt= "udemy"src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white"/>
 
 
-
+![Screenshot](https://img.freepik.com/vetores-premium/ilustracao-vetorial-desenho-animado-linda-garota-programador-programador-desenvolvedor-designer_657235-204.jpg?w=2000)t.png)
 
 
 
