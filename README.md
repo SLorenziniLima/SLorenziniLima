@@ -27,5 +27,5 @@
  <img align="center" alt= "udemy"src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white"/>
 
 
-![Screenshot] (https://st.depositphotos.com/2379655/57211/v/600/depositphotos_572115598-stock-illustration-senior-woman-using-a-laptop.jpg)
+![Screenshot](https://st.depositphotos.com/2379655/57211/v/600/depositphotos_572115598-stock-illustration-senior-woman-using-a-laptop.jpg)
 
