@@ -24,6 +24,7 @@
 
 <div style="display: inline_block"><br/>
 <img align="center" alt= "duolingo"src="https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white"/>
+ <img align="center" alt= "udemy"src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white"/>
 
 
 
