@@ -31,8 +31,10 @@
 ![Screenshot](https://st.depositphotos.com/2379655/57211/v/600/depositphotos_572115598-stock-illustration-senior-woman-using-a-laptop.jpg)
 
 <br>
+
 <a href="http://s01.flagcounter.com/more/rpa">
-<img src="https://s01.flagcounter.com/count2/rpa/bg_BF81AF</txt_440663/border_8D10B3/columns_2/maxflags_10/viewers_0/labels_1/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
+<img src="https://s01.flagcounter.com/count2/rpa/bg_BF81AF</txt_440663/border_8D10B3/columns_2/maxflags_10/viewers_0/labels_1/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0">
+</a>
 
 
 
