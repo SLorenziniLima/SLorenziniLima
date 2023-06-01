@@ -34,8 +34,5 @@
 <a href="http://s01.flagcounter.com/more/rpa">
 <img src="https://s01.flagcounter.com/count2/rpa/bg_BF81AF</txt_440663/border_8D10B3/columns_2/maxflags_10/viewers_0/labels_1/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
 
-<br>
 
-![Screnshot]
-(https://github.com/SLorenziniLima/SLorenziniLima/blob/main/Imggithub/octocat-1685579137329%20(1)%20(1).png?raw=true)
 
