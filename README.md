@@ -30,3 +30,5 @@
  ## Lifelong learning 
 ![Screenshot](https://st.depositphotos.com/2379655/57211/v/600/depositphotos_572115598-stock-illustration-senior-woman-using-a-laptop.jpg)
 
+<div align=center><a href='https://contador.s12.com.br'><img src='https://contador.s12.com.br/img-dAZ5AB4280Y70ZWy-91.gif' border='0' alt='counter free'></a><script type='text/javascript' src='https://contador.s12.com.br/ad.js?id=dAZ5AB4280Y70ZWy'></script></div>
+
